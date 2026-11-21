@@ -1,0 +1,6 @@
+{
+  "name": "UrbisFlow - Smart City IoT & Gestão Urbana",
+  "description": "Plataforma de monitorização em tempo real de Cidade Inteligente, telemetria IoT, reporte cidadão com geolocalização e documentação técnica para PAP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
